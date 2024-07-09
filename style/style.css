@@ -520,3 +520,168 @@
 /* Third main section end here  */
 
 /* Fourth main section start here  */
+
+.fourth-main-section {
+    width: 1140px;
+    height: 866px;
+    padding: 0;
+    margin: 110px auto 0;
+}
+
+.fourth-main-section .goal-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.fourth-main-section .goal-container h2 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+
+.fourth-main-section .goal-container p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 48px;
+}
+
+/*  */
+
+.fourth-main-section .flex-box {
+    padding: 40px;
+    border: 1px solid rgb(188, 174, 174);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 26px;
+}
+
+.fourth-main-section .flex-box img {
+    margin-right: 25px;
+}
+
+ .flex-box .React-box h2 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.flex-box .React-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+.flex-box .React-box a {
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+
+}
+
+/*  */
+.fourth-main-section .flex-box-2 {
+    padding: 40px;
+    border: 1px solid rgb(188, 174, 174);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 26px;
+}
+
+.fourth-main-section .flex-box-2 img {
+    margin-right: 25px;
+}
+
+ .flex-box-2 .NodeJs-box h2 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.flex-box-2 .NodeJs-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+.flex-box-2 .NodeJs-box a {
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+
+}
+
+/*  */
+
+
+.fourth-main-section .flex-box-3 {
+    padding: 40px;
+    border: 1px solid rgb(188, 174, 174);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 26px;
+}
+
+.fourth-main-section .flex-box-3 img {
+    margin-right: 25px;
+}
+
+ .flex-box-3 .MongoDB-box h2 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.flex-box-3 .MongoDB-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+.flex-box-3 .MongoDB-box a {
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+
+}

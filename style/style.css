@@ -352,3 +352,171 @@
 
 /* Third main section start here */
 
+.third-main-section {
+    width: 1140px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.target-section h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.target-section p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    opacity: 0.7;
+    padding: 0 30px;
+    margin-bottom: 48px;
+}
+
+.card-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-box .html-box {
+    width: 284px;
+    height: 219px;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    margin-right: 24px;
+}
+
+.card-box .css-box {
+    width: 284px;
+    height: 219px;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    margin-right: 24px;
+}
+
+.card-box .js-box {
+    width: 284px;
+    height: 219px;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    margin-right: 24px;
+}
+
+.card-box .html-box img {
+    height: 50px;
+    margin-bottom: 24px;
+}
+
+.card-box .html-box h2 { 
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.card-box .html-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+
+
+.card-box .html-box a u {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.card-box .css-box img {
+    height: 50px;
+    margin-bottom: 24px;
+}
+
+.card-box .css-box h2 { 
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.card-box .css-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+
+
+.card-box .css-box a u {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+
+
+.card-box .js-box img {
+    height: 50px;
+    margin-bottom: 24px;
+}
+
+.card-box .js-box h2 { 
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.card-box .js-box p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+
+
+.card-box .js-box a u {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+
+/* Third main section end here  */
+
+/* Fourth main section start here  */

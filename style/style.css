@@ -314,3 +314,41 @@
 /* First main section third secton end here */
 
 
+
+.second-main-section {
+    width: 1140px;
+    height: 775px;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.video-content iframe {
+    border-radius: 16px;
+}
+
+.second-main-section .document-container h1 {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.second-main-section .document-container p {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 48px;
+    line-height: 26px;
+}
+
+/* Second main container end here */
+
+/* Third main section start here */
+

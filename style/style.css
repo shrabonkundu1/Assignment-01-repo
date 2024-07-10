@@ -610,7 +610,7 @@
     font-weight: 700;
     border: none;
     outline: none;
-    
+
 }
 
 
@@ -800,7 +800,7 @@ footer  {
     font-size: 20px;
     font-weight: 600;
     margin: 0 16px;
-    padding-left: 20px;
+    /* padding-left: 20px; */
 }
 
 .social-icons {

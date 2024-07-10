@@ -38,6 +38,7 @@
     margin-right: 166px;
     margin-top: 30px;
     margin-bottom: 48px;
+    cursor: pointer;
 }
 
 /* Navbar style end here */
@@ -94,6 +95,16 @@
     background-color: rgb(13, 19, 33);
     margin: 32px 0;
     margin-bottom: 70px;
+    cursor: pointer;
+}
+
+.move-btn button a {
+    text-decoration: none;
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color: rgb(13, 19, 33);
 }
 
 /* Banner section end here */
@@ -180,7 +191,7 @@
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
-
+    cursor: pointer;
 }
 
 
@@ -249,7 +260,7 @@
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
-
+    cursor: pointer;
 }
 
 .first-main-section .second-section button a {
@@ -306,7 +317,7 @@
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
-
+    cursor: pointer;
 }
 
 
@@ -559,7 +570,6 @@
     margin-bottom: 48px;
 }
 
-/*  */
 
 .fourth-main-section .flex-box {
     padding: 40px;
@@ -603,7 +613,7 @@
 
 }
 
-/*  */
+
 .fourth-main-section .flex-box-2 {
     padding: 40px;
     border: 1px solid rgb(188, 174, 174);
@@ -646,7 +656,6 @@
 
 }
 
-/*  */
 
 
 .fourth-main-section .flex-box-3 {
@@ -766,6 +775,7 @@
     padding: 17px 20px 17px 20px;
     border-radius: 8px;
     background: rgb(255, 255, 255);
+    cursor: pointer;
 }
 /* Fifth main section end here */
 

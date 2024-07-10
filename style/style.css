@@ -701,8 +701,8 @@
     margin: 0 auto;
     padding: 64px 48px;
     background-image: url(../assets/handshake.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 16px;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.792)), (to left(0, 0, 0, 0.5)) ;
     background-blend-mode: overlay;
     background-size: cover;
     background-position: center;
@@ -726,12 +726,46 @@
 }
 
 .support-section .support-description {
-    olor: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     font-family: "Azeret Mono", monospace;
     font-size: 16px;
     font-weight: 400;
-    opacity: 0.9;
+    opacity: 0.7;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
 
+
+.fifth-main-section .inputbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.fifth-main-section input[type="text"] {
+    width: 548px;
+    height: 57px;
+    color: rgba(13, 19, 33, 0.4);
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 19px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    margin-right: 15px;
+}
+
+.fifth-main-section button {
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 17px 20px 17px 20px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
 }
 /* Fifth main section end here */
 
@@ -761,7 +795,7 @@ footer  {
 
 .social-icons {
     /* margin-right: 14px; */
-    padding-right: 75px;
+    padding-right: 60px;
     text-decoration: none;
 }
 
